@@ -3,8 +3,6 @@
   "description": "Kumpulan ekstensi Cloudstream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/VICKY879211/JAVSUBINDO/main/Index.json"
+    "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
   ]
 }
-
-
